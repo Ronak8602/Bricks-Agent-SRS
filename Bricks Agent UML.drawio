@@ -1,1 +1,16 @@
-<mxfile host="app.diagrams.net" modified="2022-08-10T14:41:44.292Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="cIvjuEVP0eTrLisruW8X" version="20.2.3" type="github"><diagram id="CHCtI5piVsVVnhj1cPAY" name="Page-1">jZNNT8MwDIZ/TY9Ia8O67TjKGCBASDsgcUFZa9pAUleZu7X8elKS9EPTJC6V8/h14rxOA5aoZqt5VTxjBjKIZlkTsNsgilbXsfl2oLVgHl9bkGuRWRQOYCd+wMGZo7XI4DAREqIkUU1himUJKU0Y1xpPU9knyumpFc/hDOxSLs/pm8iosHQZLQZ+DyIv/MlhvLIZxb3Y3eRQ8AxPI8Q2AUs0ItlINQnIzjvvi627u5DtG9NQ0n8KsuX2++vjJdzk9XHxOH9Y7tbvV26XI5e1u/A6JdSuY2q9Dab5qgtrJa2A3RxBkzBGPfE9yFc8CBJYGskeiVCNBGsp8i5BWBlakJJmEZoQa5KihKQf3cxA15CphebiTcPeP/PuABWQbo3EFTDneOufklufhgF6STGaXewYd08m7zceXDWBM9YvhwH+5UZ/Adv8Ag==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-08-10T14:43:01.112Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6bkj3VIDX3kRsH2UZlXl" version="20.2.3" type="github">
+  <diagram id="CHCtI5piVsVVnhj1cPAY" name="Page-1">
+    <mxGraphModel dx="946" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d8Gkj_N1Eguv7J5I8SAZ-1" value="BUILDER" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
+          <mxGeometry x="30" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="q98ESS9Rj1-5kXqS8xWu-1" value="SELLER" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="340" width="30" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
