@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T09:30:53.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4Kk_Ybui2b0cLU00ezVl" version="20.2.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-21T09:36:07.610Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="F_9NLz6dxhy8Xt6tvWag" version="20.2.5" type="github" pages="4">
   <diagram id="Lgsmn60hg8x5ibvLUxHN" name="Page-1">
     <mxGraphModel dx="946" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -352,7 +352,10 @@
           <mxGeometry x="320" y="490" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="s8ZZQYsKa5wZjbx0oX6Z-21" value="All these four tabs will act as Bottom Navigation Bars For the users. Separate breakout of each is given in further diagrams" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
-          <mxGeometry x="520" y="290" width="150" height="180" as="geometry" />
+          <mxGeometry x="530" y="80" width="150" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="ixgkUOfMqWZN8HMI-mew-3" value="&lt;div style=&quot;&quot;&gt;HOW TO READ THESE DIAGRAMS&lt;/div&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If the colour is white than its the end of the route&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If colour is yellowish that it has more routes and is different for both buyer and seller&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If colour is red than it has more routes in SRS which are common for both buyer and seller&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="480" y="310" width="310" height="220" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
