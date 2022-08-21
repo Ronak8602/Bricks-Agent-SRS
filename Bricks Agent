@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T09:41:42.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="VKssAD1vVOFf4XUK1tGH" version="20.2.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-21T09:46:03.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="k8txqT8yj48HagYjdmX6" version="20.2.5" type="github" pages="4">
   <diagram id="Lgsmn60hg8x5ibvLUxHN" name="Page-1">
     <mxGraphModel dx="946" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -354,7 +354,7 @@
         <mxCell id="s8ZZQYsKa5wZjbx0oX6Z-21" value="All these four tabs will act as Bottom Navigation Bars For the users. Separate breakout of each is given in further diagrams" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="530" y="80" width="150" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ixgkUOfMqWZN8HMI-mew-3" value="&lt;div style=&quot;&quot;&gt;HOW TO READ THESE DIAGRAMS&lt;/div&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If the colour is white than its the end of the route&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If colour is yellowish that it has more routes and is different for both buyer and seller&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If colour is red than it has more routes in SRS and are common for both buyer and seller&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="ixgkUOfMqWZN8HMI-mew-3" value="&lt;div style=&quot;&quot;&gt;HOW TO READ THESE DIAGRAMS&lt;/div&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If the color is white then its the end of the route&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If the color is yellowish that it has more routes and is different for both buyer and seller&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If the color is red then it has more routes in SRS and is common for both buyer and seller&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;The purple color item has a proper class diagram associated with it in SRS&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="310" width="310" height="220" as="geometry" />
         </mxCell>
       </root>
@@ -552,7 +552,7 @@
             <mxPoint x="430" y="334.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cFWZLrDSXKlVlxvuV_0X-17" value="Grid of products/ brands" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="cFWZLrDSXKlVlxvuV_0X-17" value="Grid of products/ brands" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="470" y="370" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cFWZLrDSXKlVlxvuV_0X-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -795,7 +795,7 @@
             <mxPoint x="210" y="144.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="YRUdchDdP77Y6WAsN3Sj-10" value="Product" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="YRUdchDdP77Y6WAsN3Sj-10" value="Product" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_fS11eqLGv00fPlA5Nuy-1" value="Premium" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
