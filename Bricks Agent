@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T09:46:03.622Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="k8txqT8yj48HagYjdmX6" version="20.2.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-21T10:02:35.771Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="KoZhsiPL04tZzZBDhVwT" version="20.2.5" type="github" pages="4">
   <diagram id="Lgsmn60hg8x5ibvLUxHN" name="Page-1">
     <mxGraphModel dx="946" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -860,6 +860,18 @@
             <mxPoint x="380" y="405" as="sourcePoint" />
             <mxPoint x="680" y="600" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="6gH1oxZqJG5E3JcZ7O4w-1" value="Product" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontSize=14;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="620" y="570" width="160" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="6gH1oxZqJG5E3JcZ7O4w-2" value="+ id: ID&#xa;+ image: List&lt;File&gt;&#xa;+ title: string&#xa;+ subtitle : string&#xa;+ minQuantity: int&#xa;+ price: int&#xa;+ discount: int&#xa;+ description: string&#xa;+ SKU: string&#xa;+ brand: ID&#xa;+ category: ID&#xa;+ subcategory: ID&#xa;+ size: string&#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="6gH1oxZqJG5E3JcZ7O4w-1">
+          <mxGeometry y="26" width="160" height="234" as="geometry" />
+        </mxCell>
+        <mxCell id="6gH1oxZqJG5E3JcZ7O4w-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;fontSize=14;" vertex="1" parent="6gH1oxZqJG5E3JcZ7O4w-1">
+          <mxGeometry y="260" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="6gH1oxZqJG5E3JcZ7O4w-4" value="+ getProduct(id): &#xa;   return product;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;" vertex="1" parent="6gH1oxZqJG5E3JcZ7O4w-1">
+          <mxGeometry y="268" width="160" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
