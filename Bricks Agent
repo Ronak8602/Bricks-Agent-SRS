@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T09:36:07.610Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="F_9NLz6dxhy8Xt6tvWag" version="20.2.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-21T09:41:42.716Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="VKssAD1vVOFf4XUK1tGH" version="20.2.5" type="github" pages="4">
   <diagram id="Lgsmn60hg8x5ibvLUxHN" name="Page-1">
     <mxGraphModel dx="946" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -354,7 +354,7 @@
         <mxCell id="s8ZZQYsKa5wZjbx0oX6Z-21" value="All these four tabs will act as Bottom Navigation Bars For the users. Separate breakout of each is given in further diagrams" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;" vertex="1" parent="1">
           <mxGeometry x="530" y="80" width="150" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ixgkUOfMqWZN8HMI-mew-3" value="&lt;div style=&quot;&quot;&gt;HOW TO READ THESE DIAGRAMS&lt;/div&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If the colour is white than its the end of the route&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If colour is yellowish that it has more routes and is different for both buyer and seller&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If colour is red than it has more routes in SRS which are common for both buyer and seller&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="ixgkUOfMqWZN8HMI-mew-3" value="&lt;div style=&quot;&quot;&gt;HOW TO READ THESE DIAGRAMS&lt;/div&gt;&lt;ol style=&quot;&quot;&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If the colour is white than its the end of the route&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If colour is yellowish that it has more routes and is different for both buyer and seller&lt;/li&gt;&lt;li style=&quot;text-align: justify;&quot;&gt;If colour is red than it has more routes in SRS and are common for both buyer and seller&lt;/li&gt;&lt;/ol&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="480" y="310" width="310" height="220" as="geometry" />
         </mxCell>
       </root>
@@ -797,6 +797,69 @@
         </mxCell>
         <mxCell id="YRUdchDdP77Y6WAsN3Sj-10" value="Product" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="460" y="130" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_fS11eqLGv00fPlA5Nuy-1" value="Premium" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="_fS11eqLGv00fPlA5Nuy-2" value="Premium screen displaying features of premium membership, plans and option to buy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="247.5" width="240" height="65" as="geometry" />
+        </mxCell>
+        <mxCell id="_fS11eqLGv00fPlA5Nuy-4" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="_fS11eqLGv00fPlA5Nuy-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="280" as="sourcePoint" />
+            <mxPoint x="180" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUrwsLuMIR_PyP66WX-k-1" value="Profile" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="80" y="430" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="kUrwsLuMIR_PyP66WX-k-2" value="App Bar with Edit Profile button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="390" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kUrwsLuMIR_PyP66WX-k-3" value="Profile Info" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kUrwsLuMIR_PyP66WX-k-4" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="510" as="sourcePoint" />
+            <mxPoint x="180" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUrwsLuMIR_PyP66WX-k-5" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="kUrwsLuMIR_PyP66WX-k-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="405" as="sourcePoint" />
+            <mxPoint x="480" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUrwsLuMIR_PyP66WX-k-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="454.5" as="sourcePoint" />
+            <mxPoint x="210" y="454.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUrwsLuMIR_PyP66WX-k-7" value="Logout Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="490" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kUrwsLuMIR_PyP66WX-k-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="504.5" as="sourcePoint" />
+            <mxPoint x="210" y="504.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUrwsLuMIR_PyP66WX-k-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="449.5" as="sourcePoint" />
+            <mxPoint x="180" y="449.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kUrwsLuMIR_PyP66WX-k-10" value="Edit profile screen to edit profile" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="390" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kUrwsLuMIR_PyP66WX-k-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="kUrwsLuMIR_PyP66WX-k-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="405" as="sourcePoint" />
+            <mxPoint x="680" y="600" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
