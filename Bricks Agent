@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-21T09:18:24.854Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="bl34GNb30C04ZQ7L_t80" version="20.2.5" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-08-21T09:30:53.831Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="4Kk_Ybui2b0cLU00ezVl" version="20.2.5" type="github" pages="4">
   <diagram id="Lgsmn60hg8x5ibvLUxHN" name="Page-1">
     <mxGraphModel dx="946" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -557,6 +557,193 @@
             <mxPoint x="430" y="384.5" as="sourcePoint" />
             <mxPoint x="470" y="384.5" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-1" value="Sellers Home" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="40" y="830" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-2" value="App Bar" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="170" y="745" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-3" value="Search" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="795" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-7" value="Tab Bar Consisting 3 Tabs" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="885" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="pAP5nDg-Pr8xeiAVJrBf-9" target="pAP5nDg-Pr8xeiAVJrBf-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-9" value="Need Help Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="985" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-10" value="Rate Us Button" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="1035" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1055" as="sourcePoint" />
+            <mxPoint x="140" y="755" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="pAP5nDg-Pr8xeiAVJrBf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="760" as="sourcePoint" />
+            <mxPoint x="440" y="955" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="849.5" as="sourcePoint" />
+            <mxPoint x="140" y="849.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="809.5" as="sourcePoint" />
+            <mxPoint x="170" y="809.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-18" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="899.5" as="sourcePoint" />
+            <mxPoint x="170" y="899.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-19" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="999.5" as="sourcePoint" />
+            <mxPoint x="170" y="999.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="1049.5" as="sourcePoint" />
+            <mxPoint x="170" y="1049.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="pAP5nDg-Pr8xeiAVJrBf-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="685" as="sourcePoint" />
+            <mxPoint x="430" y="695" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="360" y="760" />
+              <mxPoint x="360" y="695" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-22" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="775" as="sourcePoint" />
+            <mxPoint x="430" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-23" value="Side Nav Drawer Icon" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="610" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-24" value="Logo/ App Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="660" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-25" value="Current Location" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="710" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-26" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="620" as="sourcePoint" />
+            <mxPoint x="470" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-27" value="Notification Icon&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="470" y="760" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="674.5" as="sourcePoint" />
+            <mxPoint x="470" y="674.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-30" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="724.5" as="sourcePoint" />
+            <mxPoint x="470" y="724.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="774.5" as="sourcePoint" />
+            <mxPoint x="470" y="774.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-33" value="Provides whatsapp support on clicking from admin" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="985" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-34" value="Takes to playstore for rating" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1035" width="310" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-35" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="955" as="sourcePoint" />
+            <mxPoint x="330" y="845" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="1049.5" as="sourcePoint" />
+            <mxPoint x="430" y="1049.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="844.5" as="sourcePoint" />
+            <mxPoint x="400" y="844.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-43" value="Available Orders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="830" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="899.5" as="sourcePoint" />
+            <mxPoint x="400" y="899.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-45" value="Active Orders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="885" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="949.5" as="sourcePoint" />
+            <mxPoint x="400" y="949.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-47" value="Completed Orders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="935" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-48" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="844.5" as="sourcePoint" />
+            <mxPoint x="600" y="844.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-49" value="Seller can accept these orders from list." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="830" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="899.5" as="sourcePoint" />
+            <mxPoint x="600" y="899.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-51" value="Active orders of seller which he has accepted, It cab be marked as completed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="875" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="949.5" as="sourcePoint" />
+            <mxPoint x="600" y="949.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pAP5nDg-Pr8xeiAVJrBf-53" value="Shows list of completed orders" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="935" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
